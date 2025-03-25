@@ -1,0 +1,12 @@
+{
+	"name": "jsrepo-demo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"build:registry": "jsrepo build"
+	},
+	"devDependencies": {
+		"jsrepo": "^1.45.1"
+	}
+}
